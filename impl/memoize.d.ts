@@ -1,0 +1,1 @@
+export declare function memoize<T extends (arg: number | string) => any>(impl: T): T;
